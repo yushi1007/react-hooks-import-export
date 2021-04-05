@@ -18,10 +18,6 @@ export default function Hogwarts() {
   return (
     <div>
       <HooflePoof />
-      {/*
-				Will render `NOBODY CARES ABOUT US`, even though we renamed `Hufflepuff`
-				to `HooflePoof`
-			*/}
     </div>
   );
 }
